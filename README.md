@@ -111,3 +111,9 @@
  - 每周跑步+游泳共5次
  - 每周学习R（3、每次约1-2小时）
  - 每周学习python（同上）
+
+>## 本学期常用网站
+ - [网络学堂](https://learn.tsinghua.edu.cn/)
+ - [Github](https://github.com/)
+ - [个人Github主页](https://sirjoeyu.github.io/)
+ - [清华大学信息门户](http://info.tsinghua.edu.cn/)
